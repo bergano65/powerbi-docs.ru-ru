@@ -37,7 +37,7 @@ ms.locfileid: "79381337"
 <br>Антон Фриц (Anton Fritz) и Ади Регев (Adi Regev)
 <br>[Зарегистрироваться и начать просмотр](https://info.microsoft.com/ww-landing-How-Microsoft-Is-Changing-BI-Data-Protection.html?lcid=EN-US)
 
-**How to Become an Insights-Driven Business** (Как преобразовать предприятие для работы на основе аналитических сведений)
+**Как преобразовать предприятие для работы на основе аналитических сведений)**
 <br>Амир Нетз (Amir Netz), Майкрософт и Борис Эвелсон (Boris Evelson), Forrester
 <br>[Зарегистрироваться и начать просмотр](https://info.microsoft.com/ww-landing-how-to-become-an-insights-driven-business.html?lcid=en-us)
 
@@ -53,7 +53,7 @@ ms.locfileid: "79381337"
 <br>за авторством Виджея Гопалакришнана (Vijay Gopalakrishnan)
 <br>[Зарегистрироваться и начать просмотр](https://info.microsoft.com/ww-landing-Nine-Trends-Shaping-the-Future-of-Big-Data-Analytics.html?Lcid=EN-US)
 
-**Getting Started with Power BI** (Начало работы с Power BI)
+**Начало работы с Power BI**
 <br>Автор: Мигель Мартинес (Miguel Martinez)
 <br>[Зарегистрироваться и начать просмотр](https://info.microsoft.com/getting-started-with-power-bi-ondemand.html?Is=Website)
 
@@ -89,7 +89,7 @@ ms.locfileid: "79381337"
 <br>Авторы: Олаф Хубель (Olaf Hubel) и Мигель Мартинес (Miguel Martinez)
 <br>[Зарегистрироваться и начать просмотр](https://info.microsoft.com/Unlocking-the-Value-of-your-Enterprise-Data-OnDemandRegistration.html?Is=Website)
 
-**Simply Compelling — Tips for Better Visualization Design** (Привлекательный дизайн — советы по улучшению визуализации)
+**Привлекательный дизайн — советы по улучшению визуализации**
 <br>Автор: Миранда Ли (Miranda Li)
 <br>[Зарегистрироваться и начать просмотр](https://info.microsoft.com/ww-landing-powerbi-tips-for-better-visualization-design.html?Is=Website)
 
@@ -117,7 +117,7 @@ ms.locfileid: "79381337"
 <br>Автор: Миранда Ли (Miranda Li)
 <br>[Зарегистрироваться и начать просмотр](https://info.microsoft.com/Make-your-Power-BI-Data-Visual-Registration.html?Is=Website)
 
-**How to Design Visually Stunning Power BI Reports** (Как создать визуально привлекательные отчеты в Power BI)
+**Как создать визуально привлекательные отчеты в Power BI**
 <br>Автор: Чарльз Стерлинг (Charles Sterling)
 <br>[Смотреть сейчас](https://community.powerbi.com/t5/Webinars-and-Video-Gallery/5-3-17-Webinar-How-to-Design-Visually-Stunning-Power-BI-Reports/m-p/168204?Is=Website)
 
@@ -164,7 +164,7 @@ ms.locfileid: "79381337"
 <br>Авторы: Стивен Кракнелл (Stephen Cracknell) и Стюарт Маканлисс (Stuart Macanliss) из US Medical IT
 <br>[Зарегистрироваться и начать просмотр](https://info.microsoft.com/Proven-Techniques-for-Building-Effective-Dashboards-Registration.html?Is=Website)
 
-**Applied Intelligence for Sales & Services** (Применяемая аналитика в сфере продаж и обслуживания)
+**Применяемая аналитика в сфере продаж и обслуживания**
 <br>Автор: Эд Бобрин (Ed Bobrin) из Avanade
 <br>[Зарегистрироваться и начать просмотр](https://info.microsoft.com/applied-intelligence-for-sales-service.html?Is=Website)
 
@@ -172,7 +172,7 @@ ms.locfileid: "79381337"
 <br>Авторы: Джон Томпсон (Jon Thompson) из Blue Margin и Джим Пастор (Jim Pastor) из Elgin Fastener Group
 <br>[Зарегистрироваться и начать просмотр](https://info.microsoft.com/digital-transformation-in-manufacturing.html?Is=Website)
 
-**Visualize public or private datasets with the new Power BI and data.world connector** (Визуализация общедоступных или частных наборов данных с помощью нового соединителя data.world для Power BI)
+**Визуализация общедоступных или частных наборов данных с помощью нового соединителя data.world для Power BI**
 <br>Авторы: Патрик МакГарри (Patrick McGarry) и Мигель Мартинес (Miguel Martinez)
 <br>[Зарегистрироваться и начать просмотр](https://info.microsoft.com/data-world-connector-powerbi.html?Is=Website)
 
@@ -186,23 +186,23 @@ ms.locfileid: "79381337"
 
 ### <a name="community"></a>Сообщество ###
 
-**Power BI Tricks, Tips and Tools from the owners of PowerBI.Tips** (Рекомендации по использованию Power BI: советы и инструменты от владельцев PowerBI.Tips)
+**Рекомендации по использованию Power BI: советы и инструменты от владельцев PowerBI.Tips**
 <br>Авторы: Майк Карло (Mike Carlo) и Сет Бауэр (Seth Bauer)
 <br>[Смотреть сейчас](https://www.youtube.com/watch?v=fnj1_e3HXow)
 
-**Storytelling with your data and Power BI** (Сведения о данных и Power BI)
+**Сведения о данных и Power BI**
 <br>Автор: Тристан Малерб (Tristan Malherbe)
 <br>[Смотреть сейчас](https://www.youtube.com/watch?v=egk0suekwHo)
 
-**Practical DAX for Power BI** (Практическое использование DAX для Power BI)
+**Практическое использование DAX для Power BI**
 <br>Автор: Фил Симарк (Phil Seamark)
 <br>[Смотреть сейчас](https://www.youtube.com/watch?v=1fGfqzS37qs)
 
-**Developing with Power BI Embedding – The April 2018 Update** (Разработка с внедрением Power BI (обновление за апрель 2018 года))
+**Разработка с внедрением Power BI (обновление за апрель 2018 года)**
 <br>Автор: Тед Паттисон (Ted Pattison)
 <br>[Смотреть сейчас](https://www.youtube.com/watch?v=swnGlrRy588)
 
-**Power BI security deep dive** (Подробный обзор безопасности в Power BI)
+**Подробный обзор безопасности в Power BI**
 <br>Автор: Каспер де Йонге (Kasper de Jonge)
 <br>[Смотреть сейчас](https://community.powerbi.com/t5/Webinars-and-Video-Gallery/5-23-2017-Power-BI-security-deep-dive-by-Kasper-de-Jonge/m-p/161476?Is=Website)
 
@@ -212,12 +212,12 @@ ms.locfileid: "79381337"
 
 ### <a name="advanced-topics"></a>Дополнительные разделы ###
 
-**Advanced Analytics with Excel and Power BI** (Углубленная аналитика с Excel и Power BI)
+**Углубленная аналитика с Excel и Power BI**
 <br>Авторы: Нагасаикиран Камбхампати (Nagasaikiran Kambhampati) и Мигель Мартинес (Miguel Martinez)
 <br>[Зарегистрироваться для просмотра](https://info.microsoft.com/ww-landing-advanced-analytics-excel-powerbi.html?Is=Website)
 <br>[Загрузить начальный набор расширенной аналитики](https://aka.ms/pbiaawebinar)
 
-**[Power BI adoption framework webinar series](https://info.microsoft.com/ww-landing-powerbi-adoption-framework-series.html?Is=Website)** (Серия вебинаров о внедрении платформы Power BI)
+**[Серия вебинаров о внедрении платформы Power BI](https://info.microsoft.com/ww-landing-powerbi-adoption-framework-series.html?Is=Website)**
 <br>Авторы: Ману Канварпал (Manu Kanwarpal) и Пол Хенвуд (Paul Henwood)
 <br>[Зарегистрироваться и начать просмотр — Часть 1. Реализация. Реализация культуры принятия решений на основе данных](https://info.microsoft.com/ww-landing-powerbi-adoption-ondemand.html?Is=Website)
 <br>[Зарегистрироваться и начать просмотр — Часть 2. Система управления. Управление использованием Power BI](https://info.microsoft.com/ww-ondemand-powerbi-governance.html?Is=Website)
@@ -230,15 +230,15 @@ ms.locfileid: "79381337"
 <br>Получите полезные советы и рекомендации по повышению эффективности повседневной работы с помощью Office 365.
 <br>[Зарегистрироваться и начать просмотр](https://aka.ms/Office365FinanceProsPBI)
 
-**Be a Full Stack Power BI Jedi – A walkthrough of Power BI most advanced features through Star Wars data** (Комплексное использование Power BI: обзор дополнительных возможностей Power BI на примере данных Star Wars)
+**Комплексное использование Power BI: обзор дополнительных возможностей Power BI на примере данных Star War**
 <br>Автор: Гил Равив (Gil Raviv)
 <br>[Смотреть сейчас](https://www.youtube.com/watch?v=r0Qk5V8dvgg)
 
-**How to Implement a Successful Data Governance Strategy That Makes Your Organization More Secure** (Как реализовать успешную стратегию управления данными, которая поможет обеспечить безопасность в организации)
+**Как реализовать успешную стратегию управления данными, которая поможет обеспечить безопасность в организации**
 <br>Автор: Аджай Анандан (Ajay Anandan)
 <br>[Зарегистрироваться и начать просмотр](https://info.microsoft.com/powerbi-data-governance-strategy-ondemand.html?Is=Website)
 
-**Accelerating modern BI adoption with Power BI Premium** (Ускорение перехода на современную бизнес-аналитику с Power BI Premium)
+**Ускорение перехода на современную бизнес-аналитику с Power BI Premium**
 <br>Авторы: Сируи Сан (Sirui Sun) и Мигель Мартинес (Miguel Martinez)
 <br>[Зарегистрироваться и начать просмотр](https://info.microsoft.com/powerbi-premium-webinar-ondemand.html?Is=Website)
 
@@ -246,7 +246,7 @@ ms.locfileid: "79381337"
 <br>Авторы: Риккардо Мути (Riccardo Muti), Крис Финлан (Chris Finlan) и Чинмей Джоши (Chinmay Joshi)
 <br>[Зарегистрироваться и начать просмотр](https://info.microsoft.com/whats-new-powerbi-report-server.html?Is=Website)
 
-**How Microsoft does Power BI** (Как корпорация Майкрософт работает над Power BI)
+**Как корпорация Майкрософт работает над Power BI**
 <br>Автор: Киркленд Барретт (Kirkland Barrett)
 <br>[Зарегистрироваться и начать просмотр](https://info.microsoft.com/US-PowerBI-WBNR-FY17-11Nov-29-BIATMIcrosoft274828_01Registration-ForminBody.html?Is=Website)
 
